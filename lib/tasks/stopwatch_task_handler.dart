@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:developer';
 import 'package:flutter_foreground_task/flutter_foreground_task.dart';
-import 'package:red_alert/screens/stopwatch/services/stopwatch_service.dart';
+import 'package:red_alert/services/stopwatch_service.dart';
 import 'package:red_alert/screens/stopwatch/utils.dart';
 
 typedef NotificationHandlerData = Map<String, dynamic>;

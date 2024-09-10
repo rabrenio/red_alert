@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:red_alert/screens/stopwatch/dtos/lap.dart';
+import 'package:red_alert/dtos/lap.dart';
 import 'package:red_alert/screens/stopwatch/timer_counter.dart';
 
 class _LapItem extends StatelessWidget {
